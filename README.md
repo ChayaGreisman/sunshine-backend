@@ -1,24 +1,7 @@
-# README
+# Sunshine Notes - Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Rails backend for Sunshine Notes, a Rails + JavaScript app for preschool or daycare directors/administrators/teachers to communicate with parents and keep track of important student information.
 
-Things you may want to cover:
+Frontend: https://github.com/ChayaGreisman/sunshine-frontend
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Video Demo: https://youtu.be/c_lGDjsoXHc
